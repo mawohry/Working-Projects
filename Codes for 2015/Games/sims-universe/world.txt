@@ -1,0 +1,12 @@
+##OBJECTS##
+pen : A red pen with a black-like ink inside! ##
+pencil : This is a yellow pencil, head sharpened to fit for anime drawing! ##
+key > Key to open the main door of the house! ##
+##OBJECTSEND##
+
+
+##MISSION##
+take pen ##
+keep key ##
+take pencil ##
+##MISSIONEND##
